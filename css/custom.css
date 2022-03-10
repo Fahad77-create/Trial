@@ -79,13 +79,13 @@
 }
 
 #banner-content{
-  background-image: url(/IMG/bg-signup.jpg);
+  background-image: url(./IMG/bg-signup.jpg);
   background-size: cover;
   margin-bottom:0px ;
  
 }
 #banner-2{
-   background-image: url(/IMG/ipad.png) ;
+   background-image: url(./IMG/ipad.png) ;
    background-size: cover;
    background-color:#2C2C2C;
 }
@@ -95,7 +95,7 @@
 }
 #footer{
     margin-top: 100px;
-    background-image: url(/IMG/demo-image-02.jpg);
+    background-image: url(./IMG/demo-image-02.jpg);
     background-size: cover;
     margin-bottom:0px ;
     height:950px;
@@ -110,11 +110,11 @@ color: #FFFFFF;
 }
 
 .img-1{
-  background-image: url(/IMG/demo-image-01.jpg);
+  background-image: url(./IMG/demo-image-01.jpg);
   background-size:cover ;   
 }
 .img-2{
-    background-image: url(/IMG/demo-image-02.jpg);
+    background-image: url(./IMG/demo-image-02.jpg);
     background-size:cover ;   
 }
 .img-3{
@@ -124,7 +124,7 @@ color: #FFFFFF;
     background-color: black;   
 }
 .img-5{
-    background-image: url(/IMG/demo-image-02.jpg);
+    background-image: url(./IMG/demo-image-02.jpg);
     background-size:cover ;   
 }
 button{
