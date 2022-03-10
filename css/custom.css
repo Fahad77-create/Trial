@@ -107,11 +107,9 @@ color: #FFFFFF;
 }
 
 .img-1{
-  background-image: url(IMG/demo-image-01.jpg);
   background-size:cover ;   
 }
 .img-2{
-    background-image: url(IMG/demo-image-02.jpg);
     background-size:cover ;   
 }
 .img-3{
@@ -121,7 +119,6 @@ color: #FFFFFF;
     background-color: black;   
 }
 .img-5{
-    background-image: url(IMG/demo-image-02.jpg);
     background-size:cover ;   
 }
 button{
